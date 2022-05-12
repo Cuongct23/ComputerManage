@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">ComputerManage</string>
+    <string name="trangchu">Trang chủ</string>
+    <string name="hoadon">Hóa đơn</string>
+    <string name="thongke">Thống kê</string>
+    <string name="them">Thêm</string>
+    <string name="khongbaohanh">Không bảo hành</string>
+    <string name="_6thang">6 tháng</string>
+    <string name="_12thang">12 tháng</string>
+    <string name="baohanh">Bảo hành</string>
+    <string name="dathanhtoan">Đã thanh toán</string>
+    <string name="chuathanhtoan">Chưa thanh toán</string>
+    <string name="maloai">Mã loại</string>
+    <string name="manv">Mã nhân viên</string>
+    <string name="password">Password</string>
+    <string name="tennv">Tên nhân viên</string>
+    <string name="email">Email</string>
+    <string name="masp">Mã sản phẩm</string>
+    <string name="tensp">Tên sản phẩm</string>
+    <string name="giatien">Giá tiền</string>
+    <string name="moi">Mới</string>
+    <string name="like_new_99">Like New 99%</string>
+    <string name="cu">Cũ</string>
+    <string name="tinhtrang">Tình trạng</string>
+    <string name="hethanh">Hết hàng</string>
+    <string name="conhang">Còn hàng</string>
+
+    <string name="mahang">Mã hãng:</string>
+    <string name="tenhang">Tên hãng:</string>
+    <string name="tenloai">Tên loại:</string>
+    <string name="ngaytao">Ngày tạo</string>
+    <string name="nguoitao">Người tạo</string>
+
+
+    <string name="dongia">Đơn giá</string>
+    <string name="thanhtien">Thành tiền</string>
+    <string name="tenkh">Tên khách hàng:</string>
+    <string name="sdt">Số điện thoại:</string>
+    <string name="sex">Giới tính:</string>
+    <string name="diachi">Địa chỉ:</string>
+    <string name="loai">Loại</string>
+    <string name="gia">Giá</string>
+
+    <string name="trangthai">Trạng thái</string>
+    <string name="makh">Mã khách hàng</string>
+
+
+    <string name="cpu">CPU</string>
+    <string name="ram">Ram</string>
+    <string name="ocung">Ổ cứng</string>
+    <string name="hdh">Hệ điều hành</string>
+    <string name="manhinh">Màn hình</string>
+    <string name="cardmh">Card màn hình</string>
+    <string name="pin">Pin</string>
+    <string name="trongluong">Trọng lượng</string>
+    <string name="mota">Mô tả</string>
+    <string name="mahd">Mã hóa đơn</string>
+    <string name="ngay">Ngày</string>
+    <string name="soluong">Số lượng</string>
+    <string name="nam">Nam</string>
+    <string name="nu">Nữ</string>
+    <string name="khachhang">Khách hàng</string>
+    <string name="khuyenmai">Khuyến mãi</string>
+    <string name="mkcu">mật khẩu cũ</string>
+    <string name="mkmoi">mật khẩu mới</string>
+    <string name="mk_laimk">nhắc lại mật khẩu</string>
+    <string-array name="khuyenmai">
+        <item>Không khuyến mãi</item>
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+        <item>30%</item>
+    </string-array>
+</resources>
